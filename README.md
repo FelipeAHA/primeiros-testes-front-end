@@ -1,7 +1,7 @@
 # Séries Info
 
 ## Descrição
-Este projeto web permite pesquisar por séries e exibir informações relevantes como título, descrição, personagens e IMDb.
+Este é um primeiro projeto web teste que permite pesquisar por algumas séries e exibir informações relevantes como título, descrição, personagens e IMDb.
 
 ## Funcionalidades
 * **Pesquisa:** Permite realizar pesquisas por palavras-chave em títulos, descrições e tags.
